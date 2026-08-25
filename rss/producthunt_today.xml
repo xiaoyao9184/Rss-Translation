@@ -2,23 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Aug 2026 12:46:31 GMT</lastBuildDate>
-    <item>
-      <title>分裂感知</title>
-      <link>https://www.producthunt.com/products/splitsense</link>
-      <description><![CDATA[
-            通过人工智能将用户行为转化为更高的转化
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/splitsense</guid>
-      <pubDate>Mon, 24 Aug 2026 19:04:41 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 15:42:07 GMT</lastBuildDate>
     <item>
       <title>ChatGPT 广告库</title>
       <link>https://www.producthunt.com/products/chatgpt-ad-library</link>
@@ -48,20 +34,6 @@
       <pubDate>Mon, 24 Aug 2026 12:11:14 GMT</pubDate>
     </item>
     <item>
-      <title>会话索引器</title>
-      <link>https://www.producthunt.com/products/session-indexer</link>
-      <description><![CDATA[
-            对您自己的 Claude Code 会话历史记录进行语义搜索
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/session-indexer</guid>
-      <pubDate>Mon, 24 Aug 2026 09:32:05 GMT</pubDate>
-    </item>
-    <item>
       <title>好友视觉测试</title>
       <link>https://www.producthunt.com/products/buddy</link>
       <description><![CDATA[
@@ -76,18 +48,18 @@
       <pubDate>Mon, 24 Aug 2026 09:19:46 GMT</pubDate>
     </item>
     <item>
-      <title>通过Agentcard购买API</title>
-      <link>https://www.producthunt.com/products/agent-card</link>
+      <title>邮政空间</title>
+      <link>https://www.producthunt.com/products/postaway-space</link>
       <description><![CDATA[
-            一次 API 调用，您的代理即可在线购买任何商品
+            过去的一小段，送给你。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agent-card</guid>
-      <pubDate>Sun, 23 Aug 2026 19:51:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/postaway-space</guid>
+      <pubDate>Mon, 24 Aug 2026 08:46:53 GMT</pubDate>
     </item>
     <item>
       <title>人工智能不可知论者</title>
@@ -130,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/flare-11</guid>
       <pubDate>Sat, 22 Aug 2026 13:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>大理石MCP</title>
-      <link>https://www.producthunt.com/products/marble-7</link>
-      <description><![CDATA[
-            通过 Claude、Cursor 和 Codex 管理您的 CMS 内容
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/marble-7</guid>
-      <pubDate>Tue, 18 Aug 2026 22:48:37 GMT</pubDate>
     </item>
     <item>
       <title>粒子工作室</title>
@@ -200,6 +158,48 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/akta-pro</guid>
       <pubDate>Thu, 06 Aug 2026 13:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不知道</title>
+      <link>https://www.producthunt.com/products/inquio</link>
+      <description><![CDATA[
+            看看你的机器人出了什么问题
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/inquio</guid>
+      <pubDate>Wed, 05 Aug 2026 13:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>创创自动化</title>
+      <link>https://www.producthunt.com/products/hacktron</link>
+      <description><![CDATA[
+            关闭漏洞发现和修补之间的循环。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/hacktron</guid>
+      <pubDate>Wed, 29 Jul 2026 09:47:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>宁比亚</title>
+      <link>https://www.producthunt.com/products/nimbia</link>
+      <description><![CDATA[
+            AI 屏幕共享呼吁用户入门
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/nimbia</guid>
+      <pubDate>Mon, 08 Jun 2026 13:03:03 GMT</pubDate>
     </item>
     <item>
       <title>码头鸭子</title>
