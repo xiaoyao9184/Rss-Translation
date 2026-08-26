@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>聊天GPT |帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
-    <description></description>
-    <lastBuildDate>Wed, 26 Aug 2026 09:41:20 GMT</lastBuildDate>
+    <description>这是 indiehackers.com 的非官方提要</description>
+    <lastBuildDate>Wed, 26 Aug 2026 12:51:51 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>为什么我开始了 Fiverr 工作来制作 ChatGPT 和 GPT-4 应用程序？</title>
       <link>https://feed.indiehackers.world/post/0c51789b38</link>
       <description><![CDATA[嘿独立黑客，
 任何认识我的人都知道我喜欢提出新的想法和想法。将它们转换为可用的应用程序。我这样做已经有 10 多年了。
@@ -30,7 +30,8 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>GPTForge - 发现 GPT 和 AI 内置的应用程序</title>
       <link>https://feed.indiehackers.world/post/b865695f63</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[我希望更轻松地跟踪和探索使用 GPT/ChatGPT 和 AI 生成工具的应用程序和网站列表，因此我决定构建 Gptforge 。目前还很简单，但我的计划是在 Youtube 和 Tiktok 上也展示这些网站。
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/b865695f63</guid>
       <pubDate>Sat, 25 Mar 2023 12:59:11 GMT</pubDate>
     </item>
@@ -56,9 +57,16 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Mon, 20 Mar 2023 17:39:10 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>ChatGPT x 您的产品变更日志</title>
       <link>https://feed.indiehackers.world/post/33485279db</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[✅ 0% 混乱，101% 生产力
+除了上述好处之外，还有其他功能值得您关注，例如自定义 CSS 的高级主题支持以及我们的小部件上的暗模式支持（即将推出⚡️）。
+我很乐意让大家尝试一下并分享您的反馈。
+链接到 ProductHunt 讨论 👇
+https://www.producthunt.com/posts/olvy-changelog
+链接到 Olvy 的变更日志登陆页面👇
+https://olvy.co/changelogs
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/33485279db</guid>
       <pubDate>Mon, 06 Mar 2023 09:46:30 GMT</pubDate>
     </item>
@@ -70,7 +78,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Tue, 14 Feb 2023 21:45:29 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>您觉得我的 GPT-3 驱动的机器人怎么样？</title>
       <link>https://feed.indiehackers.world/post/a38bc3d926</link>
       <description><![CDATA[我正在研究 Open AI 的 API，我决定创建一个聊天机器人，当我无法访问 ChatGPT 时可以参考它。
 这是 vercel 上机器人的链接：https://my-chatbot- Five.vercel.app/
@@ -107,7 +115,10 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>无需编写一行代码就获得了我的第一个付费客户</title>
       <link>https://feed.indiehackers.world/post/a3115d744a</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[昨天，我写了一篇关于我的想法的快速文章。在文章末尾，我留下了 Stripe 付款链接，用于购买该产品的终身优惠。
+今天早上，我醒来时收到了一个非常好的惊喜。我有了第一个付费客户。
+现在，是时候交付了。
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/a3115d744a</guid>
       <pubDate>Thu, 12 Jan 2023 11:26:21 GMT</pubDate>
     </item>
@@ -134,17 +145,17 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Tue, 10 Jan 2023 14:27:21 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>我们需要更多的人使用人工智能进行建设</title>
       <link>https://feed.indiehackers.world/post/ffb85c257f</link>
       <description><![CDATA[我们刚刚在 ProductHunt 上推出了适用于 Bubble 的拖放式 AI 机器人，并且希望获得 IndieHackers 社区的反馈。 
-我的希望是，这将使更多的人更容易地使用人工智能进行构建，并且更多的想法可以像无代码一样成为现实。 
+我的希望是，这将使更多的人更容易地使用人工智能进行构建，并且更多的想法可以像无代码已经实现的那样成为现实。 
 谢谢
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/ffb85c257f</guid>
       <pubDate>Sat, 07 Jan 2023 13:26:18 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>我发现 OpenAi Cookbook 非常有用。您还知道其他有用的 GPT-3 资源吗？</title>
       <link>https://feed.indiehackers.world/post/c7165e09ff</link>
       <description><![CDATA[我发现 OpenAi Cookbook 非常有用。您还知道其他有用的 GPT-3 资源吗？
 Discord Indiehackers 聊天广告此处]]></description>
