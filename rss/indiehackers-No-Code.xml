@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>无代码 |帖子 独立黑客</title>
+    <title></title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 26 Aug 2026 03:54:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:49:12 GMT</lastBuildDate>
     <item>
-      <title>在 Lovable 中构建我的第一个无代码应用程序时我学到了什么</title>
+      <title></title>
       <link>https://feed.indiehackers.world/post/ad0a54d71e</link>
-      <description><![CDATA[其他建议包括保持工作流程较小、单独测试它们，以及使用 Bubble 的 ?debug_mode=true 或 Xano 的查询检查器等调试工具来跟踪每个步骤。
-
-我的收获
-
-可爱非常适合快速开始，但一旦逻辑增长就会变得困难。我的下一步是尝试 Bubble，如果我需要更多后端控制，稍后可能会尝试 WeWeb + Xano。
-这些见解来自其他构建者，他们在 Reddit 上分享了他们的建议。我发现它们非常有帮助，并想在这里总结它们，以防它们帮助其他正在经历同样事情的人。
-Discord Indiehackers 聊天广告此处]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://feed.indiehackers.world/post/ad0a54d71e</guid>
       <pubDate>Thu, 09 Oct 2025 02:04:28 GMT</pubDate>
     </item>
@@ -54,18 +48,14 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>为什么你会陷入困境（以及独立黑客如何克服它）</title>
       <link>https://feed.indiehackers.world/post/915dfd201d</link>
-      <description><![CDATA[你只需要持续成长。
-这就是你构建真实事物的方式。
-Discord Indiehackers 聊天广告此处]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://feed.indiehackers.world/post/915dfd201d</guid>
       <pubDate>Thu, 24 Jul 2025 03:31:31 GMT</pubDate>
     </item>
     <item>
-      <title>Co Dev 简介 - 用简单的英语构建全栈应用程序</title>
+      <title></title>
       <link>https://feed.indiehackers.world/post/0309e5040e</link>
-      <description><![CDATA[我们已经上线，我们很乐意您尝试一下。
-访问https://www.co.dev/查看
-Discord Indiehackers 聊天广告此处]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://feed.indiehackers.world/post/0309e5040e</guid>
       <pubDate>Fri, 27 Jun 2025 15:54:56 GMT</pubDate>
     </item>
@@ -90,7 +80,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Wed, 19 Mar 2025 17:10:18 GMT</pubDate>
     </item>
     <item>
-      <title>Claude 与 Cursor AI：创建一个直观的待办事项 Web 应用程序，看看哪个效果更好</title>
+      <title>Claude 与 Cursor AI：创建直观的待办事项 Web 应用程序，看看哪个效果更好</title>
       <link>https://feed.indiehackers.world/post/9114b017ab</link>
       <description><![CDATA[没有。 
 如果您不知道自己在做什么或应用程序的核心部分是什么，您很容易会感到困惑和疲惫。 
@@ -114,7 +104,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Wed, 28 Aug 2024 08:22:01 GMT</pubDate>
     </item>
     <item>
-      <title>Martin Kaufmann 博士如何使用 Fuzen 开发他的 SaaS 应用程序 NewMinds：无代码创新的证明</title>
+      <title></title>
       <link>https://feed.indiehackers.world/post/620aeb259c</link>
       <description><![CDATA[对于任何考虑开发 SaaS 应用程序的企业家来说，Fuzen 提供了一个极具吸引力的选择，集易用性、灵活性和强大支持于一体。正如 Kaufmann 博士建议的那样，“如果您正在考虑开发某种软件即服务，请从 Fuzen 开始。”你不会失望的。”
 Discord Indiehackers 聊天广告此处]]></description>
@@ -173,7 +163,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Wed, 08 May 2024 22:18:42 GMT</pubDate>
     </item>
     <item>
-      <title>传统软件公司要么演变成无代码机构，要么被抛在后面。 💀</title>
+      <title>传统软件公司要么发展成为无代码机构，要么被抛在后面。 💀</title>
       <link>https://feed.indiehackers.world/post/2bc8cbe251</link>
       <description><![CDATA[您对此有何看法？
 Discord Indiehackers 聊天广告此处]]></description>
