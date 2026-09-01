@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Tue, 01 Sep 2026 18:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:03:57 GMT</lastBuildDate>
+    <item>
+      <title>BenchMIRT：LLM 基准实际衡量的是什么？</title>
+      <link>https://huggingface.co/blog/allenai/benchmirt</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/allenai/benchmirt</guid>
+      <pubDate>Tue, 01 Sep 2026 21:39:07 GMT</pubDate>
+    </item>
     <item>
       <title>隆重推出 @huggingface/kernels：200 多个用于本地 AI 的 WebGPU 内核</title>
       <link>https://huggingface.co/blog/webgpu-kernels</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</guid>
       <pubDate>Thu, 13 Aug 2026 17:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过复制 ICML 的 2,200 篇论文我们学到了什么</title>
-      <link>https://huggingface.co/blog/icml-2026-open-reproductions</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/icml-2026-open-reproductions</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
