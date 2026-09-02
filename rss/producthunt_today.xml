@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Sep 2026 16:05:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:36:52 GMT</lastBuildDate>
     <item>
       <title>洗礼</title>
       <link>https://www.producthunt.com/products/doop</link>
@@ -104,6 +104,20 @@
       <pubDate>Tue, 01 Sep 2026 13:30:59 GMT</pubDate>
     </item>
     <item>
+      <title>通过动态模型缝合 AI</title>
+      <link>https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups</link>
+      <description><![CDATA[
+            第一个刺绣数字化剂
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups</guid>
+      <pubDate>Tue, 01 Sep 2026 12:39:23 GMT</pubDate>
+    </item>
+    <item>
       <title>动态边缘</title>
       <link>https://www.producthunt.com/products/dynamic-edge</link>
       <description><![CDATA[
@@ -132,32 +146,32 @@
       <pubDate>Tue, 01 Sep 2026 07:29:27 GMT</pubDate>
     </item>
     <item>
-      <title>幽灵回复</title>
-      <link>https://www.producthunt.com/products/ghostreply-2</link>
+      <title>开爪2.0</title>
+      <link>https://www.producthunt.com/products/openclaw-formerly-clawdbot</link>
       <description><![CDATA[
-            Mac 上 iMessage 的人工智能自动回复器
+            真正做事的人工智能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ghostreply-2</guid>
-      <pubDate>Tue, 01 Sep 2026 04:35:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openclaw-formerly-clawdbot</guid>
+      <pubDate>Mon, 31 Aug 2026 18:52:42 GMT</pubDate>
     </item>
     <item>
-      <title>敏感的</title>
-      <link>https://www.producthunt.com/products/touchy-3</link>
+      <title>许多</title>
+      <link>https://www.producthunt.com/products/monid</link>
       <description><![CDATA[
-            一个了解你周围世界的 iOS 助手
+            用于代理工具的 OpenRouter
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/touchy-3</guid>
-      <pubDate>Tue, 01 Sep 2026 03:48:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/monid</guid>
+      <pubDate>Mon, 31 Aug 2026 07:07:32 GMT</pubDate>
     </item>
     <item>
       <title>北极</title>
@@ -174,46 +188,32 @@
       <pubDate>Tue, 25 Aug 2026 21:29:22 GMT</pubDate>
     </item>
     <item>
-      <title>发作型MCP</title>
-      <link>https://www.producthunt.com/products/onset-io</link>
+      <title>浏览器</title>
+      <link>https://www.producthunt.com/products/browzer</link>
       <description><![CDATA[
-            通过 AI 助手编写并发布发行说明
+            让您的技术内容处于自动驾驶状态
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/onset-io</guid>
-      <pubDate>Tue, 28 Jul 2026 21:30:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/browzer</guid>
+      <pubDate>Mon, 24 Aug 2026 00:18:46 GMT</pubDate>
     </item>
     <item>
-      <title>HydraDB操作系统</title>
-      <link>https://www.producthunt.com/products/hydradb-oss</link>
+      <title>拨号</title>
+      <link>https://www.producthunt.com/products/dial-3</link>
       <description><![CDATA[
-            现已开源：最快、最便宜的图数据库
+            10 秒内为您的 AI 客服提供真实的电话号码
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hydradb-oss</guid>
-      <pubDate>Fri, 10 Jul 2026 08:07:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户镜头</title>
-      <link>https://www.producthunt.com/products/userlens</link>
-      <description><![CDATA[
-            人工智能代理提高产品采用率
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/userlens</guid>
-      <pubDate>Sat, 25 Apr 2026 15:16:39 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/dial-3</guid>
+      <pubDate>Sat, 15 Aug 2026 21:20:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
