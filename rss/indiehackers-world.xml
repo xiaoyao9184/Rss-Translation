@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 07 Sep 2026 11:43:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:21:15 GMT</lastBuildDate>
     <item>
       <title>SaaS 订阅陷阱：“忘记取消”如何成为一种商业模式</title>
       <link>https://feed.indiehackers.world/post/7ce68ac4e8</link>
@@ -50,7 +50,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Thu, 20 Aug 2026 16:30:50 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Show IH：我为人工智能搜索忽略的小型企业建立了 18 个行业页面——我遗漏了哪一个？</title>
       <link>https://feed.indiehackers.world/post/7aa6b73dbb</link>
       <description><![CDATA[有两种方法可以提供帮助，最简单的第一个：
 
@@ -65,14 +65,37 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Thu, 20 Aug 2026 08:43:11 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>如何将 Gmail 好评转化为网站、电子邮件和社交证明</title>
       <link>https://feed.indiehackers.world/post/42546507e3</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[
+ 最佳用例 = AI 最佳用例 
+ 后续问题 = AI 后续问题 
+ 下一步操作 = 检查原始消息并批准
+来源 = Gmail
+Gmail 邮件 ID = Gmail 邮件或对话 ID
+
+在有人检查原始消息和权限之前，请勿将报价标记为“已批准”。 
+路径 2 - 强，但没有权限
+如果：
+
+ 强度得分 = 4 或 5 
+权限状态 = 权限不清楚
+
+这样做：
+添加 Gmail 操作，然后创建草稿，询问您是否可以使用推荐。
+然后，添加 Airtable → 创建记录。
+
+ 将权限状态设置为已询问
+将下一步操作设置为等待许可
+
+仅在发送草稿后将状态更改为“已询问”。 
+路径 3 - 不错，但模糊
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/42546507e3</guid>
       <pubDate>Wed, 19 Aug 2026 14:07:49 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>4 位创始人告诉我关于发布平台的同样的事情 - 所以我正在改变我正在构建的东西</title>
       <link>https://feed.indiehackers.world/post/7424714b3b</link>
       <description><![CDATA[A) 有多少人点击了
 B）为什么人们没有尝试过
@@ -136,7 +159,7 @@ Discord Indiehackers 聊天广告此处]]></description>
 如果您已经通过 Lovable 发布了一些东西，并且发布是您所害怕的部分 - Zarek 就是为您而构建的。
 在https://track.zarek.tech/t/XTGwkuA0尝试一下。粘贴您的网址并查看返回的内容。
 &lt;小时/&gt;
-很高兴收到经历过此事的人的来信。构建后发布过程中最困难的部分是什么？
+很高兴听到任何经历过这种情况的人的来信。构建后发布过程中最困难的部分是什么？
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/4eebc7b055</guid>
       <pubDate>Mon, 17 Aug 2026 13:44:00 GMT</pubDate>
@@ -144,7 +167,14 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>6 个月，46K 查询，10 个高级用户，0 美元营销支出</title>
       <link>https://feed.indiehackers.world/post/b37e10f39a</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[如果我重新开始，我会完全跳过 Twitter，从第一天起就把时间投入到登陆页面中。
+下一步是什么
+身份验证和免费等级上限。目前它是完全免费的，无需登录。在我能够正确测量任何东西之前，这需要改变。
+每周简讯将登陆页面桥接至 MCP 服务器。两份草稿放在一个文件夹中，尚未发货。
+更多登陆页面。 SEO 渠道正在发挥作用。我只需要继续喂它。
+&lt;小时/&gt;
+尝试一下：shibui.finance
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/b37e10f39a</guid>
       <pubDate>Mon, 17 Aug 2026 12:00:48 GMT</pubDate>
     </item>
@@ -162,7 +192,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Mon, 17 Aug 2026 11:01:34 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>寻找美国社交应用技术联合创始人/开发团队</title>
       <link>https://feed.indiehackers.world/post/c033357318</link>
       <description><![CDATA[👇后续步骤
 如果这个任务引起您的共鸣，我们来聊聊吧！

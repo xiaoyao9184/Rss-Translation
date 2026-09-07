@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 07 Sep 2026 11:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:20:52 GMT</lastBuildDate>
     <item>
       <title>剪贴笔记</title>
       <link>https://www.producthunt.com/products/clipnote-2</link>
@@ -20,7 +20,7 @@
       <pubDate>Mon, 07 Sep 2026 01:55:40 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>空运码</title>
       <link>https://www.producthunt.com/products/airuncode</link>
       <description><![CDATA[
             在您的计算机上运行多个本地编码代理
@@ -106,23 +106,16 @@
     <item>
       <title>Gemini 中的代理视频理解</title>
       <link>https://www.producthunt.com/products/google</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Wed, 02 Sep 2026 19:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Speakeasy 套件</title>
-      <link>https://www.producthunt.com/products/speakeasydev</link>
       <description><![CDATA[
-            您的编码代理运行时。克劳德却速度快、成本低、简洁。
+            代理视频分析可提供更快、更智能的 Gemini 见解
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/speakeasydev</guid>
-      <pubDate>Wed, 02 Sep 2026 14:23:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/google</guid>
+      <pubDate>Wed, 02 Sep 2026 19:44:06 GMT</pubDate>
     </item>
     <item>
       <title>通知域</title>
@@ -139,7 +132,7 @@
       <pubDate>Fri, 28 Aug 2026 23:28:49 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Coldtea.ai 的 PR 镜头</title>
       <link>https://www.producthunt.com/products/coldtea</link>
       <description><![CDATA[
             通过新的视角查看代码
@@ -153,7 +146,7 @@
       <pubDate>Fri, 28 Aug 2026 12:00:55 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>尼娜（Antalpha）</title>
       <link>https://www.producthunt.com/products/antalpha</link>
       <description><![CDATA[
             非托管人工智能代理：研究、预测和交易加密货币
@@ -167,7 +160,7 @@
       <pubDate>Fri, 28 Aug 2026 09:37:21 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Databox 例程</title>
       <link>https://www.producthunt.com/products/databox</link>
       <description><![CDATA[
             按计划运行分析和报告的 AI 分析师
@@ -207,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/chatgpt-toolbox</guid>
       <pubDate>Sat, 25 Jul 2026 13:16:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>醒来</title>
+      <link>https://www.producthunt.com/products/tadata</link>
+      <description><![CDATA[
+            Slack 中负责阅读房间的 AI 员工。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/tadata</guid>
+      <pubDate>Tue, 16 Dec 2025 20:05:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
