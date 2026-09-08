@@ -1,26 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:41:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:05:33 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>一位用户告诉我，我的产品的核心宣传并不是转换的真正原因。这就是我正在做的事情。</title>
+      <link>https://feed.indiehackers.world/post/c2046b864a</link>
+      <description><![CDATA[如果您想继续，等待名单已开放：https://www.ideact.site/
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/c2046b864a</guid>
+      <pubDate>Tue, 08 Sep 2026 10:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaaS 订阅陷阱：“忘记取消”如何成为一种商业模式</title>
       <link>https://feed.indiehackers.world/post/7ce68ac4e8</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[FTC“点击取消”规则已空出 — Cooley  https://www.cooley.com/news/insight/2025/2025-07-11-click-to-cancel-just-got-cancelled-第八电路-vacates-entirety-of-ftcs-negative-option-rule
+联邦贸易委员会/脑部和解https://www.lawyer-monthly.com/2025/05/ftc-cerebral-refund-subscription-scandal/
+Self.inc — 2026 年未使用的付费订阅成本https://www.self.inc/info/cost-of-unused-paid-subscriptions/
+西门罗 - 美国人在订阅上花费更多的调查 https://www.westmonroe.com/press-releases/americans-are-spending-more-on-subscriptions-and-are-less-aware-of-spending
+FTC“让黑暗模式曝光” 2022 年 9 月员工报告  https://www.ftc.gov/system/files/ftc_gov/pdf/P214800+Dark+Patterns+Report+9.14.2022+-+FINAL.pdf
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/7ce68ac4e8</guid>
       <pubDate>Fri, 04 Sep 2026 17:58:13 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>我为独立黑客启动了一个项目，我只想说谢谢</title>
       <link>https://feed.indiehackers.world/post/e9396c1289</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[由于您的反馈，我还有很多东西需要添加和重组。最大的问题之一是兴趣和真实购买意图之间的差异，包括存款、预订或询问用户实际支付的费用等建议。
+我仍在寻找 IdeaPz 的最佳方向，但我不想着急。我想保留最初的愿景，同时让产品真正有用。
+IdeaPz 完全免费并且将保持免费。
+如果您有想法，请随时提交或与可能认为有用的人分享。
+如果您想支持我的工作并帮助我维护、管理和发展 IdeaPz，网站上还有一个小型 Ko-fi 链接。没有义务！
+您的反馈对我来说意义重大。再次感谢大家的关注
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/e9396c1289</guid>
       <pubDate>Fri, 28 Aug 2026 15:21:40 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>该工具可以将您的工作量减少一半，但需要您的 API 密钥。成交还是不成交？</title>
       <link>https://feed.indiehackers.world/post/f339c2995b</link>
       <description><![CDATA[🔴“没有机会，风险太大”
 如果你是一个“也许”，什么会改变你的想法？开源？加密文档？节省的时间足够多，以至于您不再关心？
@@ -30,28 +49,61 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Thu, 20 Aug 2026 16:56:04 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>构建了一个工具，可以在人工智能代理悄然变得更糟时捕捉到 - 寻找 2-3 个人免费试用</title>
       <link>https://feed.indiehackers.world/post/8e98c9125f</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[此反馈在现阶段非常有用。我将在未来几周测试和改进 AgentWatch 时将这些见解融入产品并分享更新。
+非常感谢所有花时间发表评论、挑战想法并分享经验的人。 🙏
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/8e98c9125f</guid>
       <pubDate>Thu, 20 Aug 2026 16:30:50 GMT</pubDate>
     </item>
     <item>
       <title>Show IH：我为人工智能搜索忽略的小型企业建立了 18 个行业页面 - 我遗漏了哪一个？</title>
       <link>https://feed.indiehackers.world/post/7aa6b73dbb</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[有两种方法可以提供帮助，最简单的第一个：
+
+我遗漏了什么业务？为下一批产品命名行业——一个词就可以。
+
+如果您运行了这 18 个中的一个（或知道有人运行过），请留下 URL，我将回复它找到的内容。不管好坏，我都会发布真实的结果 - 上面的结果是 8 中的 2。
+
+
+https://planmoon.app/for
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/7aa6b73dbb</guid>
       <pubDate>Thu, 20 Aug 2026 08:43:11 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>如何将 Gmail 好评转化为网站、电子邮件和社交证明</title>
       <link>https://feed.indiehackers.world/post/42546507e3</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[
+ 最佳用例 = AI 最佳用例 
+ 后续问题 = AI 后续问题 
+ 下一步操作 = 检查原始消息并批准
+来源 = Gmail
+Gmail 邮件 ID = Gmail 邮件或对话 ID
+
+在有人检查原始消息和权限之前，请勿将报价标记为“已批准”。 
+路径 2 - 强，但没有权限
+如果：
+
+ 强度得分 = 4 或 5 
+权限状态 = 权限不清楚
+
+这样做：
+添加 Gmail 操作，然后创建草稿，询问您是否可以使用推荐。
+然后，添加 Airtable → 创建记录。
+
+ 将权限状态设置为已询问
+将下一步操作设置为等待许可
+
+仅在发送草稿后将状态更改为“已询问”。 
+路径 3 - 不错，但模糊
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/42546507e3</guid>
       <pubDate>Wed, 19 Aug 2026 14:07:49 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>4 位创始人告诉我关于发布平台的同样的事情 - 所以我正在改变我正在构建的东西</title>
       <link>https://feed.indiehackers.world/post/7424714b3b</link>
       <description><![CDATA[A) 有多少人点击了
 B）为什么人们没有尝试过
@@ -59,20 +111,25 @@ C) 诚实的书面反馈
 D) 访客来自哪里
 E) 有多少人后来回来了
 F）其他的东西
-我使用这里的答案来决定首先构建什么。
+我使用此处的答案来决定首先构建什么。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/7424714b3b</guid>
       <pubDate>Wed, 19 Aug 2026 09:45:17 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>477 人注册后，以下是用户获取方面令我惊讶的地方</title>
       <link>https://feed.indiehackers.world/post/043fd4ce67</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[我过去更关注流量和注册量。现在我开始更关心：
+付费用户实际上来自哪里？
+对于这个产品，我的下一个重点可能是 SEO + YouTube，同时继续测试较小的频道。
+产品：https://livefaceswap.ai
+对于其他独立黑客：您是否也发现您的最高流量渠道和最高转化渠道完全不同？
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/043fd4ce67</guid>
       <pubDate>Wed, 19 Aug 2026 06:45:54 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>我正在为独立制造商构建一个 Product Hunt 替代方案——什么会让你真正使用它？</title>
       <link>https://feed.indiehackers.world/post/a61816d1f9</link>
       <description><![CDATA[我仍在改进这个平台，我宁愿构建创始人真正想要的东西，而不是猜测。
 所以我有两个问题要问独立黑客：
@@ -92,7 +149,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Wed, 19 Aug 2026 05:56:14 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>700 次下载却卡住了——五个月后……</title>
       <link>https://feed.indiehackers.world/post/6a4d9bd878</link>
       <description><![CDATA[
 从 3 月份开始仍然开放：如果您的 MRR 连续几个月持平，然后最终发生变化 - 是什么改变了它？
@@ -103,28 +160,47 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Mon, 17 Aug 2026 17:23:21 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>你用 Lovable 建造了它。现在怎么办？</title>
       <link>https://feed.indiehackers.world/post/4eebc7b055</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[粘贴您的产品网址。 Zarek 阅读了它，构建了完整的 6 阶段发布路线图，并编写了每一份副本 - X thread、Show HN、LinkedIn、Reddit、Product Hunt。它会为您的特定产品找到正确的子版块和目录，在编写推介之前预先筛选每个子版块和目录的规则和约束，自动提交目录，然后验证每个列表是否确实存在。
+然后，它会通过电子邮件向您发送发布窗口期间的每日简报：这是已完成的工作、这是需要注意的内容、这是今天要做的事情。
+如果您已经通过 Lovable 发布了一些东西，并且发布是您所害怕的部分 - Zarek 就是为您而构建的。
+在https://track.zarek.tech/t/XTGwkuA0尝试一下。粘贴您的网址并查看返回的内容。
+&lt;小时/&gt;
+很高兴听到任何经历过这种情况的人的来信。构建后发布过程中最困难的部分是什么？
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/4eebc7b055</guid>
       <pubDate>Mon, 17 Aug 2026 13:44:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>6 个月，46K 查询，10 个高级用户，0 美元营销支出</title>
       <link>https://feed.indiehackers.world/post/b37e10f39a</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[如果我重新开始，我会完全跳过 Twitter，从第一天起就把时间投入到登陆页面中。
+下一步是什么
+身份验证和免费等级上限。目前它是完全免费的，无需登录。在我能够正确测量任何东西之前，这需要改变。
+每周简讯将登陆页面桥接至 MCP 服务器。两份草稿放在一个文件夹中，尚未发货。
+更多登陆页面。 SEO 渠道正在发挥作用。我只需要继续喂它。
+&lt;小时/&gt;
+尝试一下：shibui.finance
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/b37e10f39a</guid>
       <pubDate>Mon, 17 Aug 2026 12:00:48 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>正在寻找合作伙伴 — 40% 以上的 AI SaaS 已构建？</title>
       <link>https://feed.indiehackers.world/post/7ec9107817</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[所以：
+合作伙伴： 40%+ → 带来分销/客户 → 共同打造业务。
+获取：获取整个 SaaS → 拥有它 → 自定义它 → 让它成为您的。
+我特意在寻找合作伙伴中发布此内容，因为我不是在寻找随机买家。
+让我们停止谈论我们可以构建什么，并从已经构建的东西开始。
+私信我，我会向您展示产品。让我们看看我们可以从这里构建什么。
+Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/7ec9107817</guid>
       <pubDate>Mon, 17 Aug 2026 11:01:34 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>寻找美国社交应用技术联合创始人/开发团队</title>
       <link>https://feed.indiehackers.world/post/c033357318</link>
       <description><![CDATA[👇后续步骤
 如果这个任务引起您的共鸣，我们来聊聊吧！
@@ -134,18 +210,6 @@ NextUs — 我们的意图与现实相遇的地方。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/c033357318</guid>
       <pubDate>Mon, 17 Aug 2026 09:46:47 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://feed.indiehackers.world/post/d731289806</link>
-      <description><![CDATA[大多数工具都是为用户构建的。反馈循环贯穿指标和支持票证。我们正在尝试的，是在平台上与创始人一起构建，故意做小事，不承诺它会变成什么样子。
-这是一种不同类型的工程问题。老实说，这是一个更有趣的。
-&lt;小时/&gt;
-如果您已在 SoftRankings 上列出，请在此处请求 Slack 邀请：formsout.app/form/Founder-email-collection-for-slack
-还没有列出来？免费、24 小时审核，无需信用卡：softrankings.com/submit
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/d731289806</guid>
-      <pubDate>Mon, 17 Aug 2026 08:19:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
