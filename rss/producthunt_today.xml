@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Sep 2026 21:33:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 22:52:03 GMT</lastBuildDate>
     <item>
       <title>码头修复5.0</title>
       <link>https://www.producthunt.com/products/dockfix</link>
@@ -48,20 +48,6 @@
       <pubDate>Thu, 10 Sep 2026 20:18:42 GMT</pubDate>
     </item>
     <item>
-      <title>框架草图</title>
-      <link>https://www.producthunt.com/products/framesketch</link>
-      <description><![CDATA[
-            逐帧擦洗视频并以 60 fps 的速度在其上绘制草图 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/framesketch</guid>
-      <pubDate>Thu, 10 Sep 2026 10:42:55 GMT</pubDate>
-    </item>
-    <item>
       <title>体素墙</title>
       <link>https://www.producthunt.com/products/voxelwall</link>
       <description><![CDATA[
@@ -76,7 +62,7 @@
       <pubDate>Thu, 10 Sep 2026 06:29:28 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Mac 版卡莱托</title>
       <link>https://www.producthunt.com/products/calerto-meeting-alarms</link>
       <description><![CDATA[
             适用于 Mac 的全屏会议提醒
@@ -88,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/calerto-meeting-alarms</guid>
       <pubDate>Thu, 10 Sep 2026 06:14:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>标记分享</title>
+      <link>https://www.producthunt.com/products/marked-share</link>
+      <description><![CDATA[
+            Markdown 和 TextBundle 编辑、审阅和共享
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/marked-share</guid>
+      <pubDate>Wed, 09 Sep 2026 14:45:35 GMT</pubDate>
     </item>
     <item>
       <title>沃金托什</title>
@@ -130,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/linkflick</guid>
       <pubDate>Mon, 07 Sep 2026 03:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>皮质</title>
+      <link>https://www.producthunt.com/products/cortex-25</link>
+      <description><![CDATA[
+            将 API 规范转化为文档、SDK 和 MCP 服务器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cortex-25</guid>
+      <pubDate>Sat, 05 Sep 2026 10:05:18 GMT</pubDate>
     </item>
     <item>
       <title>处理</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/stackness</guid>
       <pubDate>Wed, 02 Sep 2026 17:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.producthunt.com/products/relic-copy-vault</link>
-      <description><![CDATA[
-            包含您复制的所有内容的私人同步保管库
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/relic-copy-vault</guid>
-      <pubDate>Wed, 02 Sep 2026 16:44:53 GMT</pubDate>
     </item>
     <item>
       <title>你说得对</title>
