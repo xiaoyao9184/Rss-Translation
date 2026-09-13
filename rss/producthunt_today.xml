@@ -4,26 +4,12 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Sep 2026 22:52:03 GMT</lastBuildDate>
-    <item>
-      <title>码头修复5.0</title>
-      <link>https://www.producthunt.com/products/dockfix</link>
-      <description><![CDATA[
-            将 macOS Dock 替换为真正属于您的 Dock。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/dockfix</guid>
-      <pubDate>Fri, 11 Sep 2026 19:26:15 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 13 Sep 2026 03:27:09 GMT</lastBuildDate>
     <item>
       <title>碰撞</title>
       <link>https://www.producthunt.com/products/sudari</link>
       <description><![CDATA[
-            一款像素水獭桌面宠物，会对您的工作方式做出反应
+            像素水獭桌面宠物，对您的工作方式做出反应
           
 
 讨论
@@ -202,18 +188,32 @@
       <pubDate>Wed, 02 Sep 2026 17:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>你说得对</title>
-      <link>https://www.producthunt.com/products/youkti</link>
+      <title>遗迹</title>
+      <link>https://www.producthunt.com/products/relic-copy-vault</link>
       <description><![CDATA[
-            查找谁准备好购买，然后告诉您下一步该做什么 
+            包含您复制的所有内容的私人同步保管库
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/youkti</guid>
-      <pubDate>Fri, 14 Aug 2026 07:50:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/relic-copy-vault</guid>
+      <pubDate>Wed, 02 Sep 2026 16:44:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>队长杀戮开关</title>
+      <link>https://www.producthunt.com/products/captain-kill-switch</link>
+      <description><![CDATA[
+            一键关闭所有打开的应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/captain-kill-switch</guid>
+      <pubDate>Sun, 23 Aug 2026 04:09:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
